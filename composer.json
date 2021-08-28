@@ -1,0 +1,7 @@
+{
+    "require": {
+        "stripe/stripe-php": "^7.66",
+        "twig/twig": "^3.1"
+    }
+}
+
